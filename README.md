@@ -1,2 +1,2 @@
 # Clone-Spotify
-front-end de site clone do spotify.
+front-end do site clone do spotify, foi criado utilizando o site do spotify como base.
